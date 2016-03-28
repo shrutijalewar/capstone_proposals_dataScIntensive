@@ -1,3 +1,3 @@
- # Data Science Intensive 
- ## capstone proposals
+# Data Science Intensive 
+## project proposals for the final capstone for the course.
  
