@@ -1,0 +1,19 @@
+Data Science projects outline
+
+Price Elasticity of e-books.
+--------------------------------------------------------
+The general trend is that a lower list price will attract more readers. But more readers doesn’t necessarily translate into a greater net royalty. It depends.
+Quantified measurements inside Amazon show that for every ebook sold at $14.99, it would sell 1.74 copies if priced at $9.99. For 100,000 units offered, therefore, the haul would be $1.5 million at $14.99 and $1.74 million at $9.99.
+I have a large in-house dataset that I can use to mine information on price, units sold for books in different categories and its comparison with physical books.
+
+
+Heat map of a book based on usage data.
+--------------------------------------------------------
+Students interact with textbook through an online platform (https://bookshelf.vitalsource.com/#/user/signin). These interactions are stored as highlights, notes and page views against specific page number of specific textbook.
+If there was a heat map of these interactions plotted on that of the book, this information would be highly valuable to publishers and will provide valuable insight into their business.
+
+
+Classification of a book based on its content.
+--------------------------------------------------------
+In the online platform(https://bookshelf.vitalsource.com/#/user/signin) books are classified based on the metadata provided by the retailers. Sometimes that is not accurate that results in wrong classification and tagging of the books that lead to bad search results. If there was a way to classify and tag books based on their text, it would circumvent this problem.
+
